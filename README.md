@@ -34,5 +34,3 @@ This project is a **complete E-Commerce API** built with **FastAPI**, designed t
 - **Authentication:** JWT (JSON Web Token)
 - **Password Hashing:** bcrypt
 - **Docs:** Swagger UI
-
----
