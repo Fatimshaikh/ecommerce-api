@@ -1,4 +1,4 @@
-# E-Commerce API 🚀
+# E-Commerce API
 
 [![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.99.0-green)](https://fastapi.tiangolo.com/)
@@ -17,13 +17,13 @@ This project is a **complete E-Commerce API** built with **FastAPI**, designed t
 ---
 
 ## Features
-- ✅ User registration & login
-- ✅ JWT-based authentication
-- ✅ Role-based authorization (Admin/User)
-- ✅ CRUD operations for products, carts, and orders
-- ✅ Secure password hashing
-- ✅ Protected routes for update/delete operations
-- ✅ API documentation with Swagger UI
+- User registration & login
+- JWT-based authentication
+- Role-based authorization (Admin/User)
+- CRUD operations for products, carts, and orders
+- Secure password hashing
+- Protected routes for update/delete operations
+- API documentation with Swagger UI
 
 ---
 
